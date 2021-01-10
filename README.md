@@ -9,6 +9,6 @@ vgg19 architecture is as follows -
 ![](Images/vgg19.png)
 
 
-Detailed architecture
+Detailed architecture of vgg19 along with other great models.
 
 ![](Images/vgg191.png)
